@@ -3,6 +3,8 @@
 📌 Overview
 This project aims to detect fraudulent credit card transactions using Machine Learning & AI. The dataset contains 1M+ transactions**, and we built a real-time fraud detection dashboard.
 
+Here you can download dateset: https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
+
 🔍 Features
 - Fraud Detection Model trained on imbalanced data using SMOTE & Random Forest.
 - Data Visualization of fraud patterns with Matplotlib & Seaborn.
